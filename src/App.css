@@ -15,18 +15,19 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #121416;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: #ebde2e;
+  font-family: 'Cairo', sans-serif;
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ebde2e;
   font-size: 1rem;
   letter-spacing: .8rem;
   font-weight: bold;
